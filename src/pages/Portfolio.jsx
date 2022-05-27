@@ -18,7 +18,9 @@ function Portfolio() {
           }}
         >
           <div class='card-body'>
-            <h5 class='card-title'>Space Between 2</h5>
+            <h4 class='card-title' style={{ textAlign: 'center' }}>
+              Space Between 2
+            </h4>
             <p class='card-text'>
               My game project, designed with vanilla Javascript. Example of DOM
               manipulation, using class constructors, pushing images into an
@@ -44,7 +46,9 @@ function Portfolio() {
           }}
         >
           <div class='card-body'>
-            <h5 class='card-title'>Fitnessa</h5>
+            <h4 class='card-title' style={{ textAlign: 'center' }}>
+              Fitnessa
+            </h4>
             <p class='card-text'>
               Full-Stack web app made to make it easy to find other like-minded
               people in their area who are into fitness or trying to lead a more
@@ -72,7 +76,9 @@ function Portfolio() {
           }}
         >
           <div class='card-body'>
-            <h5 class='card-title'>Numinous</h5>
+            <h4 class='card-title' style={{ textAlign: 'center' }}>
+              Numinous
+            </h4>
             <p class='card-text'>
               This is a wider card with supporting text below as a natural
               lead-in to additional content. This card has even longer content

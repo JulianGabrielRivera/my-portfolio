@@ -4,7 +4,7 @@ const Home = () => {
     <>
       <div className='homeContainer'>
         <div className='landing-image'>
-          <h2>printf("Hello World!")</h2>
+          {/* <h2>printf("Hello World!")</h2> */}
           <h3>Julian Gabriel Rivera - A Full Stack Web Developer</h3>
         </div>
         <hr />
