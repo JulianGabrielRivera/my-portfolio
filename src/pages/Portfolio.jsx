@@ -1,9 +1,6 @@
-import spaceBetween from '../images/spacebetween.png';
-import fitnessaImage from '../images/fitnessaimg.png';
-import liftMeUpImage from '../images/liftmeup.png';
-import WASD from '../images/wasd.png';
-import fitnessaWhite from '../images/fitnessa1.png';
-import numinousOne from '../images/numinous1.png';
+import fitnessaNew from '../images/fitnessanew.jpg';
+import noMad1 from '../images/nomad1.jpg';
+import earth from '../images/earth.jpg';
 
 function Portfolio() {
   return (
@@ -19,6 +16,11 @@ function Portfolio() {
               backgroundColor: 'rgba(255, 240, 240, 0.88)',
             }}
           >
+            <img
+              src={earth}
+              alt=''
+              style={{ backgroundSize: 'contain', padding: '20px' }}
+            />
             <div class='card-body'>
               <h4
                 class='card-title'
@@ -36,7 +38,7 @@ function Portfolio() {
             </div>
             <div
               class='card-footer border-0'
-              style={{ backgroundColor: 'transparent' }}
+              style={{ backgroundColor: 'transparent', textAlign: 'center' }}
             >
               <a
                 href='https://juliangabrielrivera.github.io/SpaceBetween/'
@@ -53,6 +55,11 @@ function Portfolio() {
               backgroundColor: 'rgba(255, 240, 240, 0.88)',
             }}
           >
+            <img
+              src={fitnessaNew}
+              alt=''
+              style={{ backgroundSize: 'contain', padding: '20px' }}
+            />
             <div class='card-body'>
               <h4
                 class='card-title'
@@ -73,7 +80,7 @@ function Portfolio() {
             </div>
             <div
               class='card-footer border-0'
-              style={{ backgroundColor: 'transparent' }}
+              style={{ backgroundColor: 'transparent', textAlign: 'center' }}
             >
               <a
                 href='https://fitnessaapp.herokuapp.com/home'
@@ -90,6 +97,11 @@ function Portfolio() {
               backgroundColor: 'rgba(255, 240, 240, 0.88)',
             }}
           >
+            <img
+              src={noMad1}
+              alt=''
+              style={{ backgroundSize: 'contain', padding: '20px' }}
+            />
             <div class='card-body'>
               <h4
                 class='card-title'
@@ -107,7 +119,7 @@ function Portfolio() {
             </div>
             <div
               class='card-footer border-0'
-              style={{ backgroundColor: 'transparent' }}
+              style={{ backgroundColor: 'transparent', textAlign: 'center' }}
             >
               <a
                 href='https://scintillating-blancmange-d927b0.netlify.app/'

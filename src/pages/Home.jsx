@@ -1,4 +1,3 @@
-import sleepRepeat from '../images/eatcode.jpg';
 const Home = () => {
   return (
     <>

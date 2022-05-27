@@ -47,9 +47,33 @@ function Navbar() {
                   Portfolio
                 </Link>
               </li>
-              <li className='nav-item me-4'>About</li>
+              <li className='nav-item me-4'>
+                {' '}
+                <Link
+                  to='/about'
+                  style={{
+                    textDecoration: 'none',
+                    color: 'white',
+                    fontWeight: 'bold',
+                  }}
+                >
+                  About
+                </Link>
+              </li>
 
-              <li className='nav-item me-4'>Contact</li>
+              <li className='nav-item me-4'>
+                {' '}
+                <Link
+                  to='/contact'
+                  style={{
+                    textDecoration: 'none',
+                    color: 'white',
+                    fontWeight: 'bold',
+                  }}
+                >
+                  Contact
+                </Link>
+              </li>
             </ul>
           </div>
           <div className='fontAwesomeIcons'>
