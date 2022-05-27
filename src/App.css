@@ -75,6 +75,10 @@ nav ul li {
   display: flex;
 }
 
+.winered {
+  border-color: #4d1426;
+}
+
 @media (min-width: 800px) {
   nav.footer {
     height: 50px;
