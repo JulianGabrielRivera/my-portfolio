@@ -80,9 +80,11 @@ function Portfolio() {
               Numinous
             </h4>
             <p class='card-text'>
-              This is a wider card with supporting text below as a natural
-              lead-in to additional content. This card has even longer content
-              than the first to show that equal height action.
+              Has two roles, one admin and one guest. Only admins can create new
+              places and only admins can delete places. If guests want more info
+              they have to sign up in order to see more details.Numinous made
+              with HTML,CSS, Javascript , Mongoose, MongoDB, AXIOS, Bootstrap,
+              React, Express.js, Node.js.
             </p>
           </div>
           <div class='card-footer'>
