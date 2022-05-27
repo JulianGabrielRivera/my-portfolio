@@ -89,7 +89,7 @@ function Portfolio() {
           </div>
           <div class='card-footer'>
             <a
-              href='https://fitnessaapp.herokuapp.com/home'
+              href='https://scintillating-blancmange-d927b0.netlify.app/'
               className='btn btn-light buttonStyles'
             >
               Click Me!
