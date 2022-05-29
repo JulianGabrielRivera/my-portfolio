@@ -58,7 +58,7 @@ function Portfolio() {
             <img
               src={fitnessaNew}
               alt=''
-              style={{ backgroundSize: 'contain', padding: '20px' }}
+              style={{ backgroundSize: 'cover', padding: '20px' }}
             />
             <div class='card-body'>
               <h4
