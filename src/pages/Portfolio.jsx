@@ -1,4 +1,4 @@
-import fitnessaNew from '../images/fitnessanew.jpg';
+import fitnessaNew from '../images/fitnessanew.png';
 import noMad1 from '../images/nomad1.jpg';
 import earth from '../images/earth.jpg';
 
@@ -58,7 +58,7 @@ function Portfolio() {
             <img
               src={fitnessaNew}
               alt=''
-              style={{ objectFit: 'contain', padding: '20px' }}
+              style={{ backgroundSize: 'contain', padding: '20px' }}
             />
             <div class='card-body'>
               <h4
