@@ -1,6 +1,6 @@
 import fitnessaNew from '../images/fitnessanew.png';
 import noMad1 from '../images/nomad1.jpg';
-import earth from '../images/earth.jpg';
+import earth from '../images/earth.png';
 
 function Portfolio() {
   return (
