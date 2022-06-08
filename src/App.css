@@ -89,6 +89,9 @@ nav ul li {
   border: 2.5px solid #343a40;
   border-radius: 7px;
 }
+.footer ul li {
+  color: black;
+}
 
 @media (min-width: 800px) {
   nav.footer {
