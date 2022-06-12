@@ -24,6 +24,7 @@ const Home = () => {
           <li>Axios</li>
           <li>MongoDB</li>
           <li>Mongoose</li>
+          <li>yea</li>
         </ul>
       </nav>
     </>
